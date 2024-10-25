@@ -52,7 +52,7 @@ export default function Portfolio() {
                   <span className="sr-only">GitHub</span>
                 </Button>
               </Link>
-              <Link href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/in/suchetan-chakraborty-2758b9312/" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline" size="icon">
                   <Linkedin className="h-4 w-4" />
                   <span className="sr-only">LinkedIn</span>
